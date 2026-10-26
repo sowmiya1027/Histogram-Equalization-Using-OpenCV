@@ -32,7 +32,7 @@ Use the `cv2.calcHist()` function to calculate the histograms of the Blue, Green
 Plot and display the histograms of the grayscale image and color image.
 
 ## Program
-
+```
 
 import cv2
 import numpy as np
@@ -73,7 +73,7 @@ plt.show()
 plt.figure(figsize = [15,4])
 plt.subplot(121); plt.hist(img.ravel(),256,range = [0, 256]); plt.title('Original Image')
 plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Histogram Equalized')
-
+```
 
 ## Output
 
