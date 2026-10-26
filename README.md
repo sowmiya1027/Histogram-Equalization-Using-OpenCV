@@ -78,11 +78,14 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 ## Output
 
 ### Input Grayscale Image
-<img width="758" height="551" alt="image" src="https://github.com/user-attachments/assets/fa67d2c8-f374-4875-b601-4717c0059db7" />
+<img width="397" height="545" alt="image" src="https://github.com/user-attachments/assets/e319c2d1-c5a6-4289-83b1-a8f32c8ce40f" />
 
 
 ### Input Grayscale Image Range
-<img width="397" height="545" alt="image" src="https://github.com/user-attachments/assets/e319c2d1-c5a6-4289-83b1-a8f32c8ce40f" />
+
+<img width="758" height="551" alt="image" src="https://github.com/user-attachments/assets/fa67d2c8-f374-4875-b601-4717c0059db7" />
+
+
 
 
 ### Input Grayscale Image Equalized Histogram
